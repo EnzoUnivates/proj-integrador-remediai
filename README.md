@@ -1,4 +1,4 @@
-# proj-integrador-remediai
+# Projeto-Integrador-RemediAI
 # Introdução
 
 Com o passar dos anos e o aumento dos casos de doenças crônicas, muitas pessoas enfrentam dificuldades para seguir o tratamento corretamente. Esquecer de tomar um remédio, trocar os horários ou não perceber que o estoque acabou são situações comuns e perigosas, que podem agravar a saúde.
