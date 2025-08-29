@@ -135,3 +135,8 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
    
   Descrição: Limitações do sistema operacional ou conflitos com outros apps podem impedir que o alerta seja exibido.
 
+
+
+
+  Link para o modelo: https://dbdiagram.io/d/Remedia-ER-68b1eddd777b52b76c386fe2
+
