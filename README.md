@@ -144,3 +144,4 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
 
   Link para o modelo UML: https://lucid.app/lucidchart/e0f3393b-37aa-4ea1-a777-b7820bd245d3/edit?viewport_loc=-301%2C-28%2C2844%2C1316%2CHWEp-vi-RSFO&invitationId=inv_f20a571d-84ed-4d48-9b08-bdca64f304da
 
+  Cronograma do projeto: https://docs.google.com/document/d/1QI-l0LSAtVqCCv0S6MoBwQuJyJIyE4v4Z2XSutfhglI/edit?usp=sharing
