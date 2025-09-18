@@ -142,3 +142,5 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
   
   Link para o modelo use case: https://app.diagrams.net/?splash=0#G1dQU2LNaA7fChrVX3FI7zr7bv8sA1wvgJ#%7B%22pageId%22%3A%22sFQRTCC9LdpEDUAtQcOI%22%7D
 
+  Link para o modelo UML: https://lucid.app/lucidchart/e0f3393b-37aa-4ea1-a777-b7820bd245d3/edit?viewport_loc=-301%2C-28%2C2844%2C1316%2CHWEp-vi-RSFO&invitationId=inv_f20a571d-84ed-4d48-9b08-bdca64f304da
+
