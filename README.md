@@ -15,12 +15,12 @@ Em resumo, o Remediaí quer ser um apoio constante para quem precisa tomar medic
 Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medicamentoso, com foco em usabilidade, acessibilidade e privacidade dos dados, oferecendo funcionalidades que facilitem o controle e o acompanhamento dos medicamentos.
 
 # Objetivos Específicos (Requisitos funcionais)
-1. Cadastro de medicamentos e horários
+1. Cadastro de medicamentos e horários(feito)
    
    Criar um sistema simples para registrar o nome, dosagem, forma (comprimido, xarope, injeção), horário(s) e instruções de uso.
 
 
-2. Notificações e lembretes
+2. Notificações e lembretes(Feito)
    
    Enviar alertas sonoros e visuais no horário da dose, com possibilidade de repetição até que o usuário confirme a ação.
 
@@ -40,7 +40,7 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
    Exibir as próximas doses, alertas e lembretes de consultas de forma rápida e prática.
 
 
-6. Alerta de não tomada
+6. Alerta de não tomada (feito)
    
    Enviar aviso para o cuidador caso o usuário não confirme a dose após certo tempo.
 
@@ -59,7 +59,7 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
 
 # Requisitos Não Funcionais
 
-1. Usabilidade
+1. Usabilidade (feito)
 
 
    Interface simples e intuitiva, adaptada para idosos.
@@ -68,13 +68,13 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
    Botões grandes, textos legíveis e uso de ícones claros.
 
 
-2. Acessibilidade
+2. Acessibilidade (feito)
 
 
    Navegação simplificada para usuários com baixa visão ou limitações motoras.
 
 
-3. Privacidade e Segurança
+3. Privacidade e Segurança (feito)
 
 
     Cumprir a LGPD (Lei Geral de Proteção de Dados).
@@ -84,7 +84,7 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
 
 
 
-4. Performance
+4. Performance (feito)
 
 
     Notificações devem disparar em menos de 1 segundo após o horário agendado.
@@ -93,7 +93,7 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
     Operar de forma estável mesmo em dispositivos de baixo desempenho.
 
 
-5. Confiabilidade
+5. Confiabilidade(em partes)
 
 
     Funcionar offline usando armazenamento local.
@@ -102,7 +102,7 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
     Garantir sincronização correta quando houver internet disponível.
 
 
-6. Compatibilidade
+6. Compatibilidade(feito)
 
 
     Suporte para Android a partir da versão 8.0.
@@ -111,7 +111,7 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
     Compatibilidade com diferentes tamanhos de tela e resoluções.
 
 
-7. Manutenibilidade
+7. Manutenibilidade(Feito)
 
 
     Código modular e documentado para facilitar futuras atualizações.	
