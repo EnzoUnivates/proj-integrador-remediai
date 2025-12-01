@@ -131,7 +131,7 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
 
 
 
-  Link para o modelo ER: https://dbdiagram.io/d/Remedia-ER-68b1eddd777b52b76c386fe2
+  Link para o modelo ER: https://dbdiagram.io/d/Copy-of-Remedia-ER-692e0fa0d6676488ba254c67
   
   Link para o modelo use case: https://app.diagrams.net/?splash=0#G1dQU2LNaA7fChrVX3FI7zr7bv8sA1wvgJ#%7B%22pageId%22%3A%22sFQRTCC9LdpEDUAtQcOI%22%7D
 
