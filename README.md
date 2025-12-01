@@ -50,13 +50,6 @@ Desenvolver um aplicativo e um widget que aumentem a adesão ao tratamento medic
    Avisar quando um medicamento estiver acabando e indicar se é necessária receita médica para a compra.
 
 
-8. Localização de farmácias
-   
-   Integrar com o Google Maps para mostrar farmácias próximas e como chegar até elas. (Caso houver tempo)
-
- 
-
-
 # Requisitos Não Funcionais
 
 1. Usabilidade (feito)
